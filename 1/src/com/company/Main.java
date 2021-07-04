@@ -6,7 +6,6 @@ public class Main {
         char a = '3';
         char b = 'c';
         char c = 'd';
-        System.out.println((a + b + c)=);
-        sgsgsgr
+        System.out.println(a + b + c)bb;
     }
 }
