@@ -6,6 +6,6 @@ public class Main {
         char a = '3';
         char b = 'c';
         char c = 'd';
-        System.out.println((a + b + c)\3);
+        System.out.println((a + b + c));
     }
 }
